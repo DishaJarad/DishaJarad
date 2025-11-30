@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Java.
 - 💡 Open to collaboration on innovative projects.
 - 📫 You can reach me through my LinkedIn Account.
-- 🔗LinkedIn:www.linkedin.com/in/disha-jarad-68b857269
+- 🔗LinkedIn:www.linkedin.com/in/disha-jarad
 
 
 <!---
