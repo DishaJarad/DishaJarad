@@ -125,19 +125,6 @@ MySQL&nbsp;  • MongoDB&nbsp;  • Supabase
 
 ---
 
-## GITHUB INSIGHTS
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoumilMalik24&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumilMalik24&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumilMalik24&theme=radical" />
-</p>
-
----
-
 ## CONNECT
 
 <p align="center">
