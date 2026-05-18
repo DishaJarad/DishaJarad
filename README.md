@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Soumil%20Malik&fontSize=48&fontColor=ffffff" />
+  <img src="https://dishajarad.github.io/self/" />
 </p>
 
 <h3 align="center">
