@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Machine Learning • Deep Learning • Generative AI • MLOps
+Machine Learning • Deep Learning • Generative AI 
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ Building AI products that are scalable, reliable, and built for real-world use
 
 ## ABOUT ME
 
-I am a **Final-year Computer Engineering undergraduate** focused on **applied Machine Learning, Generative AI, and MLOps engineering**.
+I am a **Final-year Computer Engineering undergraduate** focused on **applied Machine Learning, Generative AI**.
 
 Rather than stopping at model accuracy, I focus on **end-to-end ML systems** —  
 from **data ingestion and experimentation** to **monitoring, and reproducibility**.
@@ -37,13 +37,13 @@ My work emphasizes:
     <img src="https://img.shields.io/badge/Computer%20Vision-20c997?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-0d6efd?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative%20AI-ff4d6d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-fd7e14?style=for-the-badge"/>
+ 
 </p>
 
 - Designing complete ML pipelines from raw data to deployment
 - Training and evaluating deep learning models with theoretical grounding
 - Building LLM-powered systems using retrieval, agents, and orchestration
-- Applying MLOps best practices with observability and monitoring
+
 
 ---
 
@@ -99,17 +99,10 @@ LangChain&nbsp;  • LangGraph&nbsp;   • MCP&nbsp;  • RAG Pipelines&nbsp;   
 
 ---
 
-### MLOps, Monitoring & Infrastructure
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36"/> &nbsp;
-  <img src="https://cdn.brandfetch.io/idS8GMP5c8/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="32"/> &nbsp;
-  
-</p>
 
-Git&nbsp;  • Docker&nbsp;  • Kubernetes&nbsp;  • MLflow 
+
+Git&nbsp;  • Docker&nbsp;  • Kubernetes&nbsp; 
 
 ---
 
